@@ -295,3 +295,9 @@ org.eclipse.core.internal.resources.ResourceException: Resource '/firstProject' 
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1499)
 !SUBENTRY 1 org.eclipse.core.resources 4 368 2018-03-25 20:54:46.338
 !MESSAGE Resource '/firstProject' does not exist.
+
+!ENTRY org.eclipse.jface.text 2 0 2018-03-26 17:38:10.673
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-03-26 17:38:10.766
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
